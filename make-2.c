@@ -43,7 +43,7 @@ leave:
 
 int main(int argc,char** argv) {
 	if (argc<2) {
-		fprintf(stderr,"usage: make2 src dst\n");
+		fprintf(stderr,"usage: make-2 src dst\n");
 		return -1;
 	}
 	return make2(argv[2],argv[1]);
