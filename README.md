@@ -7,6 +7,6 @@ utils to restore [TG400](https://www.yeastar.ru/products/yeastar-tg400/) after f
 > this firmware on a non-V3 gateway will result in system crash.
 
 unpack.sh
-  downloads firmware for TG400 unpack and prepare image S34ML01G2-TG400-firmware-53.18.0.46.bin
+  downloads [firmware for TG400](https://www.yeastar.eu/downloads/53.18.0.46.bin) unpack and prepare image S34ML01G2-TG400-firmware-53.18.0.46.bin
   for [writing](https://ru.aliexpress.com/item/XGECU-100-TL866II-ICSP-FLASH-EEPROM-MCU-NAND-22/32857147523.html) into [S34ML01G2 flash chip](https://www.cypress.com/file/218306/download)
 
