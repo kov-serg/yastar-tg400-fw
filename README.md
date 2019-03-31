@@ -8,5 +8,5 @@ utils to restore TG400 after fatal update
 
 unpack.sh
   downloads firmware for TG400 unpack and prepare image S34ML01G2-TG400-firmware-53.18.0.46.bin
-  for writing into S34ML01G2 flash chip
+  for [writing](https://ru.aliexpress.com/item/XGECU-100-TL866II-ICSP-FLASH-EEPROM-MCU-NAND-22/32857147523.html) into [S34ML01G2 flash chip](https://www.cypress.com/file/218306/download)
 
