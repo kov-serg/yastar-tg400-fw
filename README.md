@@ -8,5 +8,5 @@ utils to restore [TG400](https://www.yeastar.ru/products/yeastar-tg400/) after f
 
 unpack.sh
   downloads [firmware for TG400](https://www.yeastar.com/download/TG200_TG400/53.18.0.46.zip) unpack and prepare image S34ML01G2-TG400-firmware-53.18.0.46.bin
-  for [writing](https://ru.aliexpress.com/item/XGECU-100-TL866II-ICSP-FLASH-EEPROM-MCU-NAND-22/32857147523.html) into [S34ML01G2 flash chip](https://www.cypress.com/file/218306/download)
+  for [writing](https://ru.aliexpress.com/item/XGECU-100-TL866II-ICSP-FLASH-EEPROM-MCU-NAND-22/32857147523.html) into [S34ML01G2 flash chip](https://static.chipdip.ru/lib/601/DOC028601737.pdf)
 
