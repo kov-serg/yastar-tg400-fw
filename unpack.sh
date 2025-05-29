@@ -1,6 +1,6 @@
 #!/bin/sh
 
-wget https://www.yeastar.eu/downloads/53.18.0.46.bin
+wget https://www.yeastar.com/download/TG200_TG400/53.18.0.46.zip
 unzip -P qazxcvvfrewsd321 53.18.0.46.bin
 tar -xf firmware.tar
 gcc -o make-ecc make-ecc.c
