@@ -31,7 +31,7 @@ int make2(const char* dst,const char* src) {
 	printf("0x%08X write 2st copy\n",pos/page_size*2048);
 	pos+=fwrite(buf1,1,rd,fd);
 	printf("0x%08X padding\n",pos/page_size*2048);
-	for(;rd<total_size;rd+=buf2_size) fwrite(buf2,1,buf2_size,fd);
+	for(;pos<total_size;pos+=buf2_size) fwrite(buf2,1,buf2_size,fd);
 	printf("0x%08X done size=0x%08X\n",pos/page_size*2048,pos);
 	rc=0;
 leave:
